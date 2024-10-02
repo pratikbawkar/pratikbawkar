@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [roubleshooting challenges while deepening expertise in GitHub](https://github.com/pratikbawkar)
 
-- 🌱 I’m currently learning **Azure,React,AWS**
+- 🌱 I’m currently learning **Azure,Javascript,AWS**
 
-- 🤝 I’m looking for help with **Learning React and how to create portfolio**
+- 🤝 I’m looking for help with **Learning javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pratikbawkar](https://github.com/pratikbawkar)
 
@@ -19,7 +19,7 @@
 
 - 📄 Resume [https://drive.google.com/file/d/1i4ooHzcxZYs82eHxvxlLtV2TJkZK6Dfo/view?usp=drive_link](https://drive.google.com/file/d/1i4ooHzcxZYs82eHxvxlLtV2TJkZK6Dfo/view?usp=drive_link)
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I excel in the art of sarcasm**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
