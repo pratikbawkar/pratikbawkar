@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning Azure,AWS<br>I’m looking for help with Learning  Devops<br>All of my projects are available at https://github.com/pratikbawkar<br>How to reach me pratikbawkar33@gmail.com
+I’m currently learning AWS, Docker and Ansible<br>I’m looking for help with Learning  Devops<br>All of my projects are available at https://github.com/pratikbawkar<br>How to reach me pratikbawkar33@gmail.com
 
 
 ## 🌐 Socials:
